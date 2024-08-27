@@ -15,9 +15,11 @@ const TableRow = styled.tr`
   grid-template-columns: 1fr 1fr;
   ${({ theme }) => css`
     column-gap: ${theme.spacing.small};
-    padding: 0 ${theme.spacing.large} 11px;
+    padding-right: ${theme.spacing.large};
+    padding-left: ${theme.spacing.large};
 
     &:not(:last-child) {
+      padding-bottom: 11px;
       border-bottom: 1px solid ${theme.color.whiteCoffee};
     }
   `}
