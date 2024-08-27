@@ -7,6 +7,7 @@ const CardWrapper = styled.div`
     align-items: center;
     width: 100%;
     min-height: 100vh;
+    padding: 123px 0;
     background-color: ${theme.color.eggshell};
   `}
 `;
