@@ -31,7 +31,6 @@ const TableRow = styled.tr`
 `;
 
 const Characteristic = styled.th`
-  flex-grow: 1;
   display: inline-block;
   padding: 0;
   font-weight: inherit;
@@ -41,11 +40,10 @@ const Characteristic = styled.th`
 `;
 
 const Value = styled.td`
-  flex-grow: 1;
   padding: 0;
   ${({ theme }) => css`
     font-weight: ${theme.fontWeight.bold};
-    color: ${theme.color.brandyRad};
+    color: ${theme.color.brandyRed};
   `}
 `;
 
