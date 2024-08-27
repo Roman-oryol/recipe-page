@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -20,8 +20,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [https://github.com/Roman-oryol/social-links-profile](https://github.com/Roman-oryol/social-links-profile)
-- Live Site URL: [https://ro-social-links-profile.netlify.app/](https://ro-social-links-profile.netlify.app/)
+- Solution URL: [https://github.com/Roman-oryol/recipe-page](https://github.com/Roman-oryol/recipe-page)
+- Live Site URL: [https://ro-recipe-page.netlify.app/](https://ro-recipe-page.netlify.app//)
 
 ## My process
 
