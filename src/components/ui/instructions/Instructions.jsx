@@ -4,7 +4,7 @@ import ItemTitle from '../ItemTitle';
 
 function Instructions({ instructions = [] }) {
   return (
-    <span>
+    <section>
       <Title>Instructions</Title>
       <List>
         {instructions.map((instruction, index) => (
@@ -15,7 +15,7 @@ function Instructions({ instructions = [] }) {
           </ListItem>
         ))}
       </List>
-    </span>
+    </section>
   );
 }
 
