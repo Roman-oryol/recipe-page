@@ -5,9 +5,7 @@ const Figure = styled.figure`
   margin: 0;
 `;
 
-const Image = styled.img.attrs(({ src }) => {
-  src: src;
-})`
+const Image = styled.img`
   display: block;
   width: 100%;
   height: auto;
@@ -20,7 +18,7 @@ const Image = styled.img.attrs(({ src }) => {
 function DishImage({ src }) {
   return (
     <Figure>
-      <Image src={src} />
+      <Image src={src} alt="Dish image" />
     </Figure>
   );
 }
